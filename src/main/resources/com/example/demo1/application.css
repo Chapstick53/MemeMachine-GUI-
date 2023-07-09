@@ -1,0 +1,9 @@
+/* Set window logo */
+.root {
+    -fx-background-image: url('E:\demo1\src\main\resources\[removal.ai]_tmp-64789106e2dd2.png');
+}
+
+/* Set title bar color */
+.title-bar {
+    -fx-background-color: #FF0000; /* Replace with your desired color */
+}
